@@ -1,5 +1,16 @@
 # 💫 About Me:
-Hi 👋, I'm Ayush Manojkumar Lodha!<br>I am a Master's student in Computational Data Science @Purdue School of Science, IUPUI.<br>Previously, I did my undergraduate in Civil Engineering at IIT Gandhinagar, where<br>I got interested in big climatic datasets and resilient systems, particularly in knowing what the weather would be like tomorrow ☔ so that I can decide whether to take an umbrella to school or not 😅. My interest in predicting and making data-driven decisions gradually nurtured my academic interests in Data Science, Mathematics, Statistics, and Machine Learning. I'm always open to learning as much as I can through all possible credible sources. Hence, if there is any opportunity for collaboration, anything you think I can get involved in, or something we have in common, let's talk soon!
+📊 As a Computational Data Science Student with a foundation in Civil Engineering, I stand at the crossroads where data meets real-world solutions. With academic insights from IUPUI and IIT Gandhinagar, I've melded theoretical knowledge with pragmatic applications in innovative data projects. My transformative contributions span across esteemed organizations:
+
+🌍 At ClimateAi, I spearheaded a climate data-driven framework, markedly influencing risk strategies for over 40 major ports.
+📈 I devised methodologies, amplifying risk assessment by 20% for substantial assets.
+
+❤️ Collaborating with the University of Miami, I introduced a cardiac arrhythmia detection method, reaching a stellar 97% sensitivity rate using the MIT-BIH dataset.
+
+🏨 My role at Hotel Cloud, London Town Group, facilitated the development and rollout of innovative algorithms, propelling the platform to gain 200+ hotel subscriptions.
+
+🔍 Diverse yet focused, my portfolio ranges from fine-tuning car insurance claim processes using Bayesian models to establishing pandemic dashboards that have tracked pivotal COVID-19 trends and gained recognition from 35+ international publications. Whether it's climate change, healthcare, or hospitality, I am unwaveringly committed to extracting actionable insights from data.
+
+🚀 Always eager to tackle challenges that stretch my data science and engineering capabilities. Let's connect, collaborate, and craft a future steered by data-driven innovations.
 
 
 ## 🌐 Socials:
