@@ -14,7 +14,7 @@
 
 ### Who am I? 
 
-I am a graduate student in [Master's of Computational Data Science](https://www.purdue.edu/gradschool/prospective/gradrequirements/indianapolis/cds-iupui.html) (MEDS) from the School of Science at Purdue University, Indianapolis. I am on track to graduate in May 2024. I hope to use the skills I gained in my education to contribute to a more sustainable future by applying data-driven techniques to solve real-world problems! 
+I am a graduate student in [Master's of Computational Data Science](https://www.purdue.edu/gradschool/prospective/gradrequirements/indianapolis/cds-iupui.html) (MCDS) from the School of Science at Purdue University, Indianapolis. I am on track to graduate in May 2024. I hope to use the skills I gained in my education to contribute to a more sustainable future by applying data-driven techniques to solve real-world problems! 
 
 ### Past Professional/Research Experience
 - Research Assistant Under Prof. Song and Prof.Liang on NSF Granted Project (Jan 2023 - Present)
