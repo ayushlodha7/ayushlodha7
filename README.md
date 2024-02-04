@@ -4,13 +4,13 @@
 
 <br>
 
-😊 **Pronouns:** *she/her* 
+😊 **Pronouns:** *he/him* 
 
-📝 **Personal website:** [gabriellensmith.github.io](https://gabriellensmith.github.io/)
+📝 **Personal website:** [sites.google.com/view/ayushlodha7](https://sites.google.com/view/ayushlodha7)
 
-🔗 **LinkedIn:** [gabriellesmith](https://www.linkedin.com/in/gabrielle-smith-38a6a31a3/) 
+🔗 **LinkedIn:** [ayushlodha7](https://www.linkedin.com/in/ayushlodha7/) 
 
-📫 **Contact me:** [gabriellesmith@ucsb.edu](mailto:gabriellesmith@ucsb.edu)
+📫 **Contact me:** [amlodha@purdue.edu](mailto:amlodha@purdue.edu)
 
 ### Who am I? 
 
