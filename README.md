@@ -1,20 +1,25 @@
-# 💫 About Me:
-📊 As a Computational Data Science Student with a foundation in Civil Engineering, I stand at the crossroads where data meets real-world solutions. With academic insights from IUPUI and IIT Gandhinagar, I've melded theoretical knowledge with pragmatic applications in innovative data projects. My transformative contributions span across esteemed organizations:
+<h1 align="center">Hi! I'm Ayush Lodha</h1>
 
-🌍 At ClimateAi, I spearheaded a climate data-driven framework, markedly influencing risk strategies for over 40 major ports.
-📈 I devised methodologies, amplifying risk assessment by 20% for substantial assets.
+<h3 align="center"> Master of Computational Data Science</h3>
 
-❤️ Collaborating with the University of Miami, I introduced a cardiac arrhythmia detection method, reaching a stellar 97% sensitivity rate using the MIT-BIH dataset.
+<br>
 
-🏨 My role at Hotel Cloud, London Town Group, facilitated the development and rollout of innovative algorithms, propelling the platform to gain 200+ hotel subscriptions.
+😊 **Pronouns:** *she/her* 
 
-🔍 Diverse yet focused, my portfolio ranges from fine-tuning car insurance claim processes using Bayesian models to establishing pandemic dashboards that have tracked pivotal COVID-19 trends and gained recognition from 35+ international publications. Whether it's climate change, healthcare, or hospitality, I am unwaveringly committed to extracting actionable insights from data.
+📝 **Personal website:** [gabriellensmith.github.io](https://gabriellensmith.github.io/)
 
-🚀 Always eager to tackle challenges that stretch my data science and engineering capabilities. Let's connect, collaborate, and craft a future steered by data-driven innovations.
+🔗 **LinkedIn:** [gabriellesmith](https://www.linkedin.com/in/gabrielle-smith-38a6a31a3/) 
 
+📫 **Contact me:** [gabriellesmith@ucsb.edu](mailto:gabriellesmith@ucsb.edu)
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ayushlodha7) 
+### Who am I? 
+
+I am a graduate student in [Master's of Computational Data Science](https://www.purdue.edu/gradschool/prospective/gradrequirements/indianapolis/cds-iupui.html) (MEDS) from the School of Science at Purdue University,Indianapolis. I am on track to graduate to in May 2024. I hope to use the skills I gained in my education to contribute to a more sustainable by applying data-driven solutions to real world problems! 
+
+### Education
+
+- Master's (2024): Computational Data Science (Purdue University)
+- Bachelor's of Technology (2022): Civil Engineering and Minor's in Computer Science (Indian Institute of Technology)
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=plastic&logo=c-sharp&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=plastic&logo=r&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=plastic&logo=latex&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=plastic&logo=Keras&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=plastic&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=plastic&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white) ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=plastic&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=TensorFlow&logoColor=white)
