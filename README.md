@@ -14,13 +14,15 @@
 
 ### Who am I? 
 
-I am a graduate student in [Master's of Computational Data Science](https://www.purdue.edu/gradschool/prospective/gradrequirements/indianapolis/cds-iupui.html) (MEDS) from the School of Science at Purdue University,Indianapolis. I am on track to graduate to in May 2024. I hope to use the skills I gained in my education to contribute to a more sustainable by applying data-driven solutions to real world problems! 
+I am a graduate student in [Master's of Computational Data Science](https://www.purdue.edu/gradschool/prospective/gradrequirements/indianapolis/cds-iupui.html) (MEDS) from the School of Science at Purdue University, Indianapolis. I am on track to graduate in May 2024. I hope to use the skills I gained in my education to contribute to a more sustainable future by applying data-driven techniques to solve real-world problems! 
 
 ### Past Professional/Research Experience
-#### Research Assistant Under Prof. Song and Prof.Liang (Jan 2023 - Present)
-    -  Working on NSF granted cyberwater project solving the problem of transfer data on remote servers located in different locations       
-       seamlessly and efficiently
-- Teaching Assistant Under Prof. Song 
+- Research Assistant Under Prof. Song and Prof.Liang on NSF Granted Project (Jan 2023 - Present)
+- Teaching Assistant Under Prof. Song (Aug 2023 - Dec 2023)
+- Data Science Intern @ ClimateAi (May 2023 - Aug 2023)
+- Summer Research Intern @ University of Miami (May 2021 - Aug 2021)
+- Data Science Intern @ Hotel Cloud (London Town Group) (May 2020 - Jul 2020)
+
 
 ### Education
 
