@@ -1,6 +1,6 @@
 <h1 align="center">Hi! I'm Ayush Lodha</h1>
 
-<h3 align="center"> Master of Computational Data Science</h3>
+<h3 align="center"> Master's of Science (M.S) in Computational Data Science</h3>
 
 <br>
 
