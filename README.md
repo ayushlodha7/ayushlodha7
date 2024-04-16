@@ -32,6 +32,9 @@ I am a graduate student in [Master's of Computational Data Science](https://www.
 ### My Other Coding Profiles:
 - Hackerrank Profile: https://www.hackerrank.com/profile/ayushlodhamanoj
 - Leetcode Profile: https://leetcode.com/ayushlodha007/
+### My Certifications and Badges:
+- <img width="708" alt="image" src="https://github.com/ayushlodha7/ayushlodha7/assets/63442869/de67988f-f5a6-4501-922d-1f7e29d06f7b">
+- <img width="793" alt="image" src="https://github.com/ayushlodha7/ayushlodha7/assets/63442869/07792eb2-7c4e-44a9-9707-4247e8d150fe">
 
 
 # 💻 Tech Stack:
