@@ -34,7 +34,8 @@ I am a graduate student in [Master's of Computational Data Science](https://www.
 - Leetcode Profile: https://leetcode.com/ayushlodha007/
 ### My Certifications and Badges:
 - <img width="708" alt="image" src="https://github.com/ayushlodha7/ayushlodha7/assets/63442869/de67988f-f5a6-4501-922d-1f7e29d06f7b">
-- <img width="793" alt="image" src="https://github.com/ayushlodha7/ayushlodha7/assets/63442869/07792eb2-7c4e-44a9-9707-4247e8d150fe">
+- <img width="710" alt="image" src="https://github.com/ayushlodha7/ayushlodha7/assets/63442869/e1f9987b-745a-4341-90f5-57ee91c26458">
+
 
 
 # 💻 Tech Stack:
