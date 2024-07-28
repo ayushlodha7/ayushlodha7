@@ -1,4 +1,4 @@
-<h1 align="center">Hi! I'm Ayush Lodha</h1>
+<h1 align="center">Hi! I'm Ayush Lodha ![image](https://github.com/user-attachments/assets/56059725-2653-4a8d-ad52-fc7ff99a4341) </h1>
 
 <be>
 
