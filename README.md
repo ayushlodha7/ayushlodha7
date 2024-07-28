@@ -2,7 +2,11 @@
 
 <h3 align="center"> Master's of Science (M.S) in Computational Data Science</h3>
 
-<br>
+<be>
+
+![text](https://github.com/user-attachments/assets/ea9dc812-f3b9-42e4-91e1-60023ad120ef)
+
+
 
 😊 **Pronouns:** *he/him* 
 
