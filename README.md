@@ -13,7 +13,7 @@
 
 😊 **Pronouns:** *he/him* 
 
-📝 **Personal website:** [sites.google.com/view/ayushlodha7](https://sites.google.com/view/ayushlodha7)
+📝 **Personal website:** [www.ayushlodha.com](www.ayushlodha.com)
 
 🔗 **LinkedIn:** [ayushlodha7](https://www.linkedin.com/in/ayushlodha7/) 
 
@@ -39,6 +39,7 @@ I am a graduate student in [Master's of Computational Data Science](https://www.
 ### My Other Coding Profiles:
 - Hackerrank Profile: https://www.hackerrank.com/profile/ayushlodhamanoj
 - Leetcode Profile: https://leetcode.com/ayushlodha007/
+- Tableau Profile: https://public.tableau.com/app/profile/ayushlodha7
 ### My Certifications and Badges:
 - <img width="708" alt="image" src="https://github.com/ayushlodha7/ayushlodha7/assets/63442869/de67988f-f5a6-4501-922d-1f7e29d06f7b">
 - <img width="710" alt="image" src="https://github.com/ayushlodha7/ayushlodha7/assets/63442869/e1f9987b-745a-4341-90f5-57ee91c26458">
