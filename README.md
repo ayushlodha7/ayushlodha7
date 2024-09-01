@@ -21,10 +21,11 @@
 
 ### Who am I? 
 
-I am a graduate student in [Master's of Computational Data Science](https://www.purdue.edu/gradschool/prospective/gradrequirements/indianapolis/cds-iupui.html) (MCDS) from the School of Science at Purdue University, Indianapolis. I am on track to graduate in May 2024. I hope to use the skills I gained in my education to contribute to a more sustainable future by applying data-driven techniques to solve real-world problems! 
+I recently graduated with a Master of Science in Computational Data Science from Purdue University, Indianapolis. Previously, I completed my Bachelor's degree at the Indian Institute of Technology (IIT) Gandhinagar, India, where I studied Civil Engineering with a minor in Computer Science. I have led and worked on interdisciplinary, data-driven, and AI projects in various domains, such as mental healthcare, behavioral interventions, climate change and sustainability, healthcare, and hospitality.
 
 ### Past Professional/Research Experience
-- Research Assistant Under Prof. Song and Prof.Liang on NSF Granted Project (Jan 2023 - Present)
+- AI Engineer @ TheMothershp (Feb 2024- Present)
+- Research Assistant Under Prof. Song and Prof.Liang on NSF Granted Project (Jan 2023 - Aug 2023)
 - Teaching Assistant Under Prof. Song (Aug 2023 - Dec 2023)
 - Data Science Intern @ ClimateAi (May 2023 - Aug 2023)
 - Summer Research Intern @ University of Miami (May 2021 - Aug 2021)
@@ -34,7 +35,7 @@ I am a graduate student in [Master's of Computational Data Science](https://www.
 ### Education
 
 - Master's (2024): Computational Data Science (Purdue University)
-- Bachelor's of Technology (2022): Civil Engineering and Minor's in Computer Science (Indian Institute of Technology, Gandhinagar, India)
+- Bachelor's of Technology (2022): Civil Engineering and Minor in Computer Science (Indian Institute of Technology, Gandhinagar, India)
 
 ### My Other Coding Profiles:
 - Hackerrank Profile: https://www.hackerrank.com/profile/ayushlodhamanoj
